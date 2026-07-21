@@ -15,7 +15,6 @@ import swagger from "../../assets/techIcons/swagger.svg?react";
 import postgresql from "../../assets/techIcons/postgresql.svg?react";
 import nextjs from "../../assets/techIcons/nextJS.svg?react";
 
-import shopify from "../../assets/techIcons/shopify.svg?react";
 import figma from "../../assets/techIcons/figma.svg?react";
 import git from "../../assets/techIcons/git.svg?react";
 import docker from "../../assets/techIcons/docker.svg?react";
